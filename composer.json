@@ -1,0 +1,17 @@
+{
+    "name": "jamesluo/thrifthbase",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "luozhangqiao",
+            "email": "james9203@126.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "jamesluo\\thrifthbase\\": "src/"
+        }
+    }
+}
